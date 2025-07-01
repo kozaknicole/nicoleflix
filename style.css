@@ -22,15 +22,16 @@ header {
     background-color: #a9f1a9;
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-right: 8%;
 }
 
-img{
+img {
     height: 200px;
 }
 
-.categoria-videos{
+.categoria-videos {
     display: flex;
     overflow: auto;
+    gap: 30px;
 }
