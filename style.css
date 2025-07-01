@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(153, 247, 153);
+    background-color: rgb(224, 250, 224);
 }
 
 
@@ -19,5 +19,5 @@ header {
 .chamada {
     display: flex;
     justify-content: center;
-    background-color: rgb(192, 240, 192);
+    background-color: rgb(153, 247, 153;
 }
